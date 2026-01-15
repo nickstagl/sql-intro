@@ -15,3 +15,5 @@
 -- +------+----------+
 
 
+SELECT count(*)
+FROM teams;
